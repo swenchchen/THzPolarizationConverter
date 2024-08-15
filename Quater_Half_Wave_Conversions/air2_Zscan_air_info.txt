@@ -1,0 +1,7 @@
+Scan finished at: 2024/6/13: 9:40:18
+Number of average: 500
+no window22.2°C  RH: 6.1 %
+最低位置339.3 对应约1um
+
+90度相位约344.1
+180度相位约340.8

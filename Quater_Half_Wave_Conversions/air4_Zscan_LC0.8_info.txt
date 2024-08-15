@@ -1,0 +1,4 @@
+Scan finished at: 2024/6/12: 15:44:14
+Number of average: 500
+no window22.6°C  RH: 4.2 %
+最低位置339.3 对应约1um
