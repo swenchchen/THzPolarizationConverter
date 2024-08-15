@@ -8,7 +8,7 @@ Guide on installing MATLAB can be found from the MATLAB official document
 
 3. Demo
 
-Apart from the codes in the folder "Basic_Processing_Code", all the other codes can be run directly to get the corresponding experimental results and figures. The folder "Basic_Processing_Code" should be included in the reading path of MATLAB since the codes in this folder will be called in other processing codes. Most of the codes can be run with a few seconds on a "normal" desktop computer.
+Apart from the codes in the folder "Basic_Processing_Code", all the other codes can be run directly to get the corresponding experimental results and figures. The folder "Basic_Processing_Code" should be included in the reading path of MATLAB since the codes in this folder will be called in other processing codes. Most of the codes can be run within a few seconds on a "normal" desktop computer.
 
 4. Instructions for use
 
