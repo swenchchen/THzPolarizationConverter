@@ -1,0 +1,5 @@
+Scan finished at: 2024/5/24: 14:03:37
+Number of average: 500
+Window not applied to signal 1
+Window not applied to signal 2
+21.6°„C  RH: 5.5 %
