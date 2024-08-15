@@ -1,0 +1,6 @@
+Scan finished at: 2024/6/12: 18:42:19
+Number of average: 500
+Window not applied to signal 1
+Window not applied to signal 2
+22.9°C  RH: 4.8 %
+最低位置339.3 对应约1um
